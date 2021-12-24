@@ -1,0 +1,21 @@
+#quote-container{
+  font-size: 50px;
+  text-align: right;
+  max-width: 500px;
+  margin:auto;
+}
+
+#quote-attribution{
+  font-size: 30px;
+}
+
+#message-container{
+  font-size: 50px;
+  text-align: right;
+  max-width: 500px;
+  margin:auto;
+}
+
+#from-container{
+  font-size: 30px;
+}
